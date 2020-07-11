@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 programmer_hash[:yukihiro_matsumoto] = 4
-programmer_hash
+##programmer_hash
 
 end
 
