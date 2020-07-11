@@ -82,7 +82,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-programmer_hash[:yukihiro_matsumoto] = {:known_for => "Unix"}
+programmer_hash[:yukihiro_matsumoto] = 4
 
 end
 
